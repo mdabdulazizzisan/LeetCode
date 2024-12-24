@@ -61,6 +61,6 @@ Happy Coding! 🚀
 <br>
 
  <center> 
- written by chatgpt <br>
- edited by owner of the repo
+ written by chatgpt ֎<br>
+ edited by owner of the repo 👑
  <center>
